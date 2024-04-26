@@ -65,7 +65,8 @@ void loop()
 
 ![WhatsApp Image 2024-04-08 at 8 53 11 AM](https://github.com/Jashwanafathima/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119560192/121f4e94-6497-400c-b7ca-90964925a138)
 
-![Screenshot 2024-04-26 221651](https://github.com/PonnagarajanMurugan/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119476356/5c2e97a6-d453-4b7a-895e-709f3908ea21)
+![Screenshot 2024-04-26 222253](https://github.com/PonnagarajanMurugan/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119476356/f8cf8f01-90be-41c9-9ff6-c68c4a87bbda)
+
 
 
 ### GRAPH AND TABULATION 
